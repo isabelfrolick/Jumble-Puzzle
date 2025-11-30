@@ -55,5 +55,5 @@ The puzzle is stored dynamically on the heap as a **2D array of characters (`cha
 Compile the test program with your implementation:
 
 ```bash
-g++ -std=c++11 testJumble.cpp jumble_<netid>.cpp -o jumble
+g++ -std=c++11 jumble.cpp JumblePuzzle.cpp -o jumble
 ./jumble
