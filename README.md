@@ -1,12 +1,12 @@
-# JumblePuzzle Game (C++)
+# JumblePuzzle Game
 
-This project implements the **JumblePuzzle** class in ISO C++.
+This was so fun! This project implements the JumblePuzzle class in ISO C++.
 
 The game generates a 2D puzzle with a hidden word and random lowercase letters, playable at three difficulty levels, without any GUI.
 
 ---
 
-## ✨ Overview
+## Overview
 
 The **JumblePuzzle** class allows users to:
 
