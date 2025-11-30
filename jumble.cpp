@@ -6,8 +6,6 @@
  * alter either of these supplied functions unless you wish to enhance them without
  * changing the way JumblePuzzle operates.
  *
- * If you wish to build a GUI interface for the puzzle, you may certainly do so, as
- * long as the unit tests are still carried out.
  */
 #include <string>
 #include <iostream>
